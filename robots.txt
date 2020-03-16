@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://leogeopho.digitalache.com/sitemap.xml
